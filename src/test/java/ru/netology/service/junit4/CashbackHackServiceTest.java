@@ -1,8 +1,10 @@
-package ru.netology.service;
+package ru.netology.service.junit4;
 
 import org.junit.Test;
 
 import static org.junit.Assert.*;
+
+import ru.netology.service.CashbackHackService;
 
 public class CashbackHackServiceTest {
 
